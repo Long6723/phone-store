@@ -1,14 +1,21 @@
 "use client"
-
-import { Container } from "@mui/material";
+import { Button } from "@/components/ui/button";
 
 export default function HomePage() {
   return (
-    <div className="home-page">
-        <div className="home-page__container">
-            <Container>
-                <div></div>
-            </Container>
+    <div className="">
+        <div className="">
+          <h1 className="">Hoàng Hà Mobile</h1>
+        </div>
+        <div className="">
+          <div className="">
+              <div className="">
+                <h2 className="">Danh mục</h2>
+              </div>
+          </div>
+          <div className="">
+
+          </div>
         </div>
     </div>
   );
